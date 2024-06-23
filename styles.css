@@ -5,10 +5,12 @@
 h1 {
     color: aqua;
     font-weight: 800;
+    text-align: center;
 }
 
 h3 {
     color: aquamarine;
+
 }
 
 p {
@@ -19,6 +21,8 @@ p {
 ul, ol {
     color: green;
     font-size: 20px;
+    padding: 8px;
+    margin: 8px auto;
 }
 
 a {
